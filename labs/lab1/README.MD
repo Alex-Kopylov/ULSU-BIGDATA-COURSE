@@ -6,7 +6,7 @@
 
 * Установить Git (если его нет).
 * Зарегистрировать аккаунт на GitHub (если не создан) [1].
-* Сделать форк репозитория github.com/Alex-Kopylov/ULSU-BIGDATA-COURSE в свой аккаунт.
+* Склонируйте (clone) репозиторий github.com/Alex-Kopylov/ULSU-BIGDATA-COURSE на свой компьютер.
 * Скачать Anaconda Individual Edition с официального сайта и установить [2].
 * Обновить Anaconda командой conda update –all.
 * Запустить сервер Jupyter Lab. [3] из Anaconda
